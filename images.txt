@@ -1,1 +1,2 @@
 alpine
+hslr/sun-panel:beta
